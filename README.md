@@ -92,6 +92,7 @@ Other Style Guides
     - `object`
     - `array`
     - `function`
+    - `loop`
 
     <br />
 
